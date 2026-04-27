@@ -42,7 +42,7 @@ I'm a passionate developer who enjoys turning ideas into real-world solutions an
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shivangi1515/Shivangi1515/output/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/Shivangi1515/Shivangi1515/output/snake.svg" alt="Snake animation" />
 </div>  
 
     
