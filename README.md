@@ -39,6 +39,9 @@ I'm a passionate developer who enjoys turning ideas into real-world solutions an
 ![](https://github-readme-stats.vercel.app/api?username=Shivangi1515&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shivangi1515&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangi1515&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<img src="https://raw.githubusercontent.com/Shivangi1515/Shivangi1515/output/snake.svg" alt="Snake animation" />
   
 
     
