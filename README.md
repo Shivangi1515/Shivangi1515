@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<h1><img src="https://readme-typing-svg.herokuapp.com/?lines=AI,+ML+Enthusiast;MERN+STACK....;JAVA+DSA &size=30" size="30"></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&center=true&vCenter=true&width=950&lines=AI+%26+ML+Learner+%F0%9F%A7%A0+%7C+Full-Stack+Builder+%F0%9F%9A%80+%7C+DSA+in+Java+%26+Python;I+build+projects+that+turn+data+into+decisions.;Currently+exploring%3A+Agents%2C+NLP%2C+LLMs%2C+and+Cloud." />
 
 [![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shivangi1515) [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangi-chaurasia-398a15358)
 
