@@ -1,6 +1,8 @@
 <h1 align="center"><b>Hey there! I'm Shivangi Chaurasia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
+<img height="150" src="https://i.imgflip.com/65efzo.gif">
+
 <div align="center">
 
 [![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shivangi1515) [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangi-chaurasia-398a15358)
