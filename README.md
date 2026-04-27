@@ -42,11 +42,10 @@ I'm a passionate developer who enjoys turning ideas into real-world solutions an
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shivangi1515/Shivangi1515/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shivangi1515/Shivangi1515/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Shivangi1515/Shivangi1515/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivangi1515/Shivangi1515/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivangi1515/Shivangi1515/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shivangi1515/Shivangi1515/output/github-contribution-grid-snake.svg" />
 </picture>
-  
 
     
 
