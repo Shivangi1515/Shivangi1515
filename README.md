@@ -5,6 +5,8 @@
 
 <div align="center">
 
+<h1><img src="https://readme-typing-svg.herokuapp.com/?lines=AI,+ML+Enthusiast;MERN+STACK....;JAVA+DSA &size=30" size="30"></h1>
+
 [![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shivangi1515) [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangi-chaurasia-398a15358)
 
 </div>
