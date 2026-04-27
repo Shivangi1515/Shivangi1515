@@ -41,9 +41,7 @@ I'm a passionate developer who enjoys turning ideas into real-world solutions an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangi1515&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/Shivangi1515/Shivangi1515/output/snake.svg" alt="Snake animation" />
-</div>  
+<img src="https://raw.githubusercontent.com/Shivangi1515/Shivangi1515/output/snake.svg" alt="Snake animation" />
 
     
 
