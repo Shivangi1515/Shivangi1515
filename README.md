@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Shivangi%20Chaurasia&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20%7C%20MERN%20STACK%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&center=true&vCenter=true&width=950&lines=AI+%26+ML+Learner+%F0%9F%A7%A0+%7C+Full-Stack+Builder+%F0%9F%9A%80+%7C+DSA+in+Java+%26+Python;I+build+projects+that+turn+data+into+decisions.;Currently+exploring%3A+Agents%2C+NLP%2C+LLMs%2C+and+Cloud." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&center=true&vCenter=true&width=950&lines=AI+%26+ML+Learner+%F0%9F%A7%A0+%7C+Full-Stack+Builder+%F0%9F%9A%80+%7C+DSA+in+Java+%26;I+build+projects+that+turn+data+into+decisions.;Currently+exploring%3A+Agents%2C+NLP%2C+LLMs%2C+and+Cloud." />
 </div>
 
 <p align="center">
@@ -30,6 +30,9 @@
 
 
 ## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Shivangi1515&theme=radical&hide_border=true&cache_seconds=86400" alt="Shivangi1515's GitHub Streak" width="49%" />
+</p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Shivangi1515&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
 </p>
