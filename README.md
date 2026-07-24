@@ -31,6 +31,12 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
+  <a href="https://github.com/Shivangi1515">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shivangi1515&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Shivangi1515's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shivangi1515&theme=radical&hide_border=true&cache_seconds=86400" alt="Shivangi1515's GitHub Streak" width="49%" />
 </p>
 <p align="center">
